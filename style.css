@@ -1,3 +1,17 @@
-body{
-  background-color:red
+.container{
+width: 800px;
+background-color: red;
+margin: auto;
+}
+.phoneImage{
+  height: 200px;
+  width: 450px;
+  background-color: green;
+  display: inline-block;
+}
+.signUpForm{
+  height: 200px;
+  width: 346px;
+  background-color: blue;
+  display: inline-block;
 }
