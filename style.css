@@ -10,7 +10,6 @@ margin: auto;
 .phoneImage{
   width: 440px;
   display: inline-block;
-  border: 2px solid black;
   text-align: center;
 }
 .phoneImage img{
@@ -31,5 +30,16 @@ margin: auto;
   color: #999;
   margin:auto;
   font-size: 18px;
+  font-weight: bold;
+}
+.button{
+  width:80%;
+  background-color: #3897f0;
+  border-radius: 3px;
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  padding: 8px 0px;
+  margin-top: 10px;
   font-weight: bold;
 }
