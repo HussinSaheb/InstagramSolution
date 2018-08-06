@@ -1,3 +1,8 @@
+# This is the solution to the lab we worked on for creating an instagram page.
+this solution uses no bootstrap and all positioning was made purely from HTML and CSS
+
+
+
 # CSS Lab
 
 ## Timings
